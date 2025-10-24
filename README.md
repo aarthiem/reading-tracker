@@ -1,4 +1,4 @@
-# 📚 My Reading Tracker
+# 📚 Reading Tracker
 
 A modern web application for tracking your reading progress built with React frontend, Flask backend and Azure Postgres database. Keep track of your books, reading sessions, and monitor your reading goals with detailed statistics and progress visualization.
 
@@ -268,5 +268,6 @@ If you encounter any issues or have questions:
 ---
 
 **Happy Reading! 📚✨**
+
 
 Built with ❤️ using React, Flask, and PostgreSQL
