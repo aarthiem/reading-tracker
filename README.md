@@ -7,6 +7,8 @@ A modern web application for tracking your reading progress built with React fro
 ![Flask](https://img.shields.io/badge/Backend-Flask-red)
 ![PostgreSQL](https://img.shields.io/badge/Database-PostgreSQL-blue)
 
+![alt text](image.png)
+
 ## ✨ Features
 
 ### 📖 Book Management
