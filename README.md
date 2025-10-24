@@ -1,6 +1,6 @@
 # 📚 My Reading Tracker
 
-A modern web application for tracking your reading progress built with React frontend and Flask backend. Keep track of your books, reading sessions, and monitor your reading goals with detailed statistics and progress visualization.
+A modern web application for tracking your reading progress built with React frontend, Flask backend and Azure Postgres database. Keep track of your books, reading sessions, and monitor your reading goals with detailed statistics and progress visualization.
 
 ![Reading Tracker](https://img.shields.io/badge/Status-Active-green)
 ![React](https://img.shields.io/badge/Frontend-React-blue)
