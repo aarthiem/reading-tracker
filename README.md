@@ -270,4 +270,5 @@ If you encounter any issues or have questions:
 **Happy Reading! 📚✨**
 
 
-Built with ❤️ using React, Flask, and PostgreSQL
+Built with ❤️ using React, Flask, PostgreSQL and Github Copilot
+
